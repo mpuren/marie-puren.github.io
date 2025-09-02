@@ -1,0 +1,15 @@
+# Dossier généré par Jekyll
+_site/
+
+# Caches et métadonnées
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler / Ruby
+.bundle/
+vendor/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
