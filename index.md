@@ -3,7 +3,7 @@ layout: home
 title: "Bienvenue"
 ---
 
-Je suis **Marie Puren**, enseignante-chercheuse en *histoire & humanités numériques* (LRE-EPITA).  
+Je suis **Marie Puren**, enseignante-chercheuse en *histoire & humanités numériques* au Laboratoire de Recherche d'EPITA (LRE).
 Ce site présente mes **recherches**, mes **enseignements**, une sélection de **publications** et mon **CV**.
 
 - 📚 Derniers travaux : voir [Recherche](/pages/recherche)
