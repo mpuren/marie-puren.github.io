@@ -1,0 +1,31 @@
+title: "Marie Puren — Enseignante-chercheuse"
+description: "Travaux de recherche, enseignements, publications, CV"
+url: "https://marie-puren.github.io"
+theme: minima  # thème officiel léger
+locale: fr-FR
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Navigation (minima lit 'header_pages')
+header_pages:
+  - pages/recherche.md
+  - pages/enseignement.md
+  - pages/cv.md
+
+# Infos auteur pour le pied de page
+author:
+  name: "Marie Puren"
+  email: "marie.puren@epita.fr"
+
+# Liens sociaux (affichés par minima)
+minima:
+  social_links:
+    - platform: github
+      user_url: "https://github.com/mpuren"
+    - platform: google_scholar
+      user_url: "https://scholar.google.com/citations?user=PTy_b5AAAAAJ&hl=fr"
+    - platform: linkedin
+      user_url: "https://www.linkedin.com/in/mariepuren/"
+    - platform: orcid
+      user_url: "https://orcid.org/0000-0001-5452-3913"
